@@ -100,7 +100,6 @@ def check_queue(dict_row_ticket):
         return False
 # End Functions
 
-
 # Function for initialize the app.
 def start_app():
     '''

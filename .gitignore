@@ -1,5 +1,5 @@
 # Folder geratied automaticly 
 
 .vscode/
-/src/methods/__pycache__/
+__pycache__/
 

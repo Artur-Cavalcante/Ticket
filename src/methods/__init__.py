@@ -1,6 +1,6 @@
 # Add to path the folder of methods
 import sys 
-sys.path.append('/home/artur/github/virtualenv/ticket/src/methods')
+sys.path.append('/home/artur/github/ticket/src/methods')
 
 from methods_ticket import request_choice_ticket, request_choice_menu
 from methods_app import start_app, emission_ticket

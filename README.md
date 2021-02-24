@@ -1,6 +1,6 @@
 ## This Application do emission of tickets, and stored in queue.
 
-### It does the emission of tickets and stored in queue, which after is calling  according with prioritiy.
+### It does the emission of tickets and stored in queue, which after is calling  accordingly with priority.
 ### Tickets for emission:
 
 * P = Preferred (Priority 5)
